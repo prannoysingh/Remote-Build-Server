@@ -1,0 +1,16 @@
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\obj\Release\MotherBuilder.csproj.CoreCompileInputs.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\MotherBuilder.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\MotherBuilder.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\MotherBuilder.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\IService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\PluggableCommService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\TestUtilities.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\IService.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\IService.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\PluggableCommService.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\PluggableCommService.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\TestUtilities.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\bin\Release\TestUtilities.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\obj\Release\MotherBuilder.csprojResolveAssemblyReference.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\obj\Release\MotherBuilder.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\MotherBuilder\obj\Release\MotherBuilder.pdb

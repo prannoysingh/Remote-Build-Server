@@ -1,0 +1,1 @@
+devenv NavigatorClient.sln /rebuild debug

@@ -1,0 +1,2 @@
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\ChildProc\obj\Release\ChildProc.csprojResolveAssemblyReference.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\ChildProc\obj\Release\ChildProc.csproj.CoreCompileInputs.cache

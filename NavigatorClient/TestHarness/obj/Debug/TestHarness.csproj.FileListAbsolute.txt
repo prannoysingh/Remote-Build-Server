@@ -1,0 +1,54 @@
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\ChildProc.exe
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\FileMgr.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\IService.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\MotherBuilder.exe
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\PluggableCommService.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestUtilities.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\ChildProc.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\ChildProc.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\FileMgr.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\FileMgr.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\IService.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\IService.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\PluggableCommService.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\PluggableCommService.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\PluggableCommService.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\MotherBuilder.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\MotherBuilder.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestUtilities.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestUtilities.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestUtilities.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\ChildProc.exe
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\FileMgr.dll
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\IService.dll
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\MotherBuilder.exe
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\PluggableCommService.dll
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestUtilities.dll
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\ChildProc.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\ChildProc.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\FileMgr.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\FileMgr.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\IService.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\IService.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\PluggableCommService.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\PluggableCommService.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\PluggableCommService.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\MotherBuilder.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\MotherBuilder.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestUtilities.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestUtilities.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\bin\Debug\TestUtilities.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\TestHarness\obj\Debug\TestHarness.pdb

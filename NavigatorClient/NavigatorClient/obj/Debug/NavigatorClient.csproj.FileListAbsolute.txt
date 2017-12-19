@@ -1,0 +1,173 @@
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\IService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\Repository.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\Repository.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\Repository.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\IService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\Repository.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\Repository.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\Repository.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 1\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\prannoy\Desktop\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\prannoy\Desktop\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll
+C:\Users\prannoy\Desktop\NavigatorClient\NavigatorClient\bin\Debug\IService.dll
+C:\Users\prannoy\Desktop\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll
+C:\Users\prannoy\Desktop\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\IService.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.exe
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\Repository.exe
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\Repository.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\Repository.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\prannoy\Desktop\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\IService.dll
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.exe
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\Repository.exe
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\MotherBuilder.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\Repository.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\Repository.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.dll.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\prannoy\Desktop\SMA Project 4\SMA Project 4\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb

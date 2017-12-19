@@ -1,0 +1,6 @@
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\IService\bin\Release\IService.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\IService\bin\Release\IService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\IService\bin\Release\IService.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\IService\obj\Release\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\IService\obj\Release\IService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\IService\obj\Release\IService.pdb

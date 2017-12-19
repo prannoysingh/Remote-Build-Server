@@ -1,0 +1,6 @@
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\FileMgr\bin\Release\FileMgr.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\FileMgr\bin\Release\FileMgr.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\FileMgr\bin\Release\FileMgr.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\FileMgr\obj\Release\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\FileMgr\obj\Release\FileMgr.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\FileMgr\obj\Release\FileMgr.pdb

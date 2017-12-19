@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TestRequest>
+  <author>Prannoy Singh</author>
+  <tests>
+    <TestElement>
+      <testName>test1</testName>
+      <testDriver>TestLib.cs</testDriver>
+      <testCodes>
+        <string>TestedLib.cs</string>
+        <string>TestedLibDependency.cs</string>
+        <string>Interfaces.cs</string>
+      </testCodes>
+    </TestElement>
+    <TestElement>
+      <testName>test2</testName>
+      <testDriver>TestLib1.cs</testDriver>
+      <testCodes>
+        <string>TestedLib1.cs</string>
+        <string>TestedLibDependency1.cs</string>
+        <string>Interfaces1.cs</string>
+      </testCodes>
+    </TestElement>
+  </tests>
+</TestRequest>

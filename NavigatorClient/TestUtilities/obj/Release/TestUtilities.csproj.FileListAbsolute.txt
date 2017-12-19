@@ -1,0 +1,10 @@
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\obj\Release\TestUtilities.csprojResolveAssemblyReference.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\obj\Release\TestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\bin\Release\TestUtilities.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\bin\Release\TestUtilities.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\bin\Release\TestUtilities.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\bin\Release\IService.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\bin\Release\IService.pdb
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\bin\Release\IService.dll.config
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\obj\Release\TestUtilities.dll
+C:\Users\prann\Desktop\fall\Software Modelling and Analysis\Project 3\NavigatorClient\TestUtilities\obj\Release\TestUtilities.pdb
